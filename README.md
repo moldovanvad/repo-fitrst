@@ -4,4 +4,4 @@
         const profilePassword = data.profes[i].passrd;
         const profileId = data.profiles[i].id;
         const accountNumber = data.profiles[i].account_number;
-        const profilePassword = data.profiles[i].passwor
+        const profilePassword = data.profiles[i].pas
