@@ -8,11 +8,11 @@ ewPa
 iles[i].id;
 
         const accountNumber = data.profiles[i].account_
-        const profilePassword = da.profiles[es[i].password;        ntNumber = data.profiles[i].cou_number;# StylishDemon
-StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i]
-iles[i].id;
-count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_number;
+                    await openedPaCwaitForSelector(selector
+                    await page4.click(meelector
+                    await page4.waiorNetworkIdle(l;
+                    await page4.click(elementSeIdl;
+                    await page4.waitForSelector(elementSelector4);
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;
