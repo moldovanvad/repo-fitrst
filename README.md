@@ -11,9 +11,6 @@ iles[i].id;
                     await openedPaCwaitForSelector(selector
                     await page4.click(meelector
                     await page4.waiorNetworkIdle(l;
-                    await page4.click(elementSeIdl;
-                    await page4.waitForSelector(elementSelector4);
-        const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
