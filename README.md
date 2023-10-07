@@ -13,5 +13,3 @@ iles[i].id;
                     await page4.waiorNetworkIdle(l;
         const profilePassword = data.profili].password;
 iles[i].id;
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profiles[es[i].password;        
