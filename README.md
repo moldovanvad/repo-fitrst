@@ -7,5 +7,3 @@ iles[i].id;
                     await openedPaCwaitForSelector(selector
                     await page4.click(meelector
                     await page4.waiorNetworkIdle(l;
-        const profilePassword = data.profili].password;
-iles[i].id;
