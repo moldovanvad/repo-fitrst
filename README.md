@@ -1,5 +1,5 @@
 ntNumber = data.profiles# StylishDemon
-StylishDemon        const profileId = data.prmber;
+StylishDemon        const profileId = .prmber;
 
 iles[i].id;
 
