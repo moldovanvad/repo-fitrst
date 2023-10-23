@@ -1,2 +1,2 @@
-ntNumber = data.profiles#
+ntNumber = data.s#
         const accountNumber = c
