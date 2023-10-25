@@ -1,1 +1,1 @@
-ntNumber = data.s#
+ntNumber = 
