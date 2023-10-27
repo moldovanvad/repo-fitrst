@@ -1,6 +1,5 @@
 ntNumber = 
-ntNumber = 
-ntNumber = 
+ntNum
 ntNumber = 
 ntNumber = 
 ntNumber = 
