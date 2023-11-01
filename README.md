@@ -4,4 +4,3 @@ ntNum
 ntNumber = 
 ntNumber = 
 ntNumber = 
-ntNumber = 
