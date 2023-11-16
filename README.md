@@ -3,4 +3,4 @@ ntNum
 
 ntNumber = 
 ntNumber = 
-count_number;= data.profiles[i].
+count_number;= data.profile
